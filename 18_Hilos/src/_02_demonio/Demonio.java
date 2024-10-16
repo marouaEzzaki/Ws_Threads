@@ -1,4 +1,7 @@
 package _02_demonio;
+//este ejemplo es ver un hilo que no para, no lo hemos explicado
+//ha pasado del tema
+
 
 /*
  * Se entiende como demonio aquel programa que esta ejecutándose continuamente
