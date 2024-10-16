@@ -1,4 +1,4 @@
-package _03_sincronizado_02; //MAIN
+package _03_sincronizado_02; //es el main de la app
 /*
  * En este ejemplo se intenta simular como 5 obreros 
  * intentan ponder ladrillos en una valla. 
